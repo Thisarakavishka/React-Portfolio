@@ -11,6 +11,7 @@ function App() {
   return (
     <div className={styles.App}>
       <Navbar />
+      <About />
       <Contact />
     </div>
   );
