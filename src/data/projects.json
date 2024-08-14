@@ -1,0 +1,67 @@
+[
+    {
+        "title": "ChatGPT-Clone",
+        "imageSrc": "projects/project.png",
+        "description": "A web app replicating ChatGPT's functionality, powered by the OpenAI API.              ",
+        "skills": [
+            "React",
+            "CSS",
+            "Open API"
+        ],
+        "demo": "https://github.com/Thisarakavishka/ChatGPT-Clone",
+        "source": "https://github.com/Thisarakavishka/ChatGPT-Clone"
+    },
+    {
+        "title": "Weather App",
+        "imageSrc": "projects/project.png",
+        "description": "A mobile app providing real-time weather updates using an online API.",
+        "skills": [
+            "React Native",
+            "NativeWind",
+            "Online Weather API"
+        ],
+        "demo": "https://github.com/Thisarakavishka/weather-app",
+        "source": "https://github.com/Thisarakavishka/weather-app"
+    },
+    {
+        "title": "Highway Ticket Management API",
+        "imageSrc": "projects/project.png",
+        "description": "An API for managing highway tickets, implemented with a microservices architecture.",
+        "skills": [
+            "Java",
+            "MySQL",
+            "REST API"
+        ],
+        "demo": "https://github.com/Thisarakavishka/Highway-Ticket-Management-API",
+        "source": "https://github.com/Thisarakavishka/Highway-Ticket-Management-API"
+    },
+    {
+        "title": "CargoProConnect (Standalone)",
+        "imageSrc": "projects/project.png",
+        "description": "A standalone system for managing package delivery across countries and handling employee management.",
+        "skills": [
+            "Java SE",
+            "JavaFX",
+            "Jasper Report",
+            "CSS"
+        ],
+        "demo": "https://github.com/Thisarakavishka/cargo-pro-connect",
+        "source": "https://github.com/Thisarakavishka/cargo-pro-connect"
+    },
+    {
+        "title": "Shoe Shop POS System",
+        "imageSrc": "projects/project.png",
+        "description": "Developed both front-end and API for a POS system, using JWT for authentication and authorization.",
+        "skills": [
+            "Java",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "JWT",
+            "REST API",
+            "MySQL"
+        ],
+        "demo": "https://github.com/Thisarakavishka/Shoe-shop",
+        "source": "https://github.com/Thisarakavishka/Shoe-shop"
+    }
+]
