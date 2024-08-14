@@ -1,0 +1,22 @@
+[
+  {
+    "role": "BSc (Hons) in Computer Science",
+    "organisation": " IJSE",
+    "startDate": "2022",
+    "endDate": "Present",
+    "experiences": [
+      "After completing my O/Ls at Prince of Wales' College, I joined IJSE to complement my graduate diploma and pursue a BSc (Hons) in Computer Science."
+    ],
+    "imageSrc": "history/ijse.png"
+  },
+  {
+    "role": "G.C.E. (O/L) EXAMINATION",
+    "organisation": "Prince of Wales' College",
+    "startDate": "2009",
+    "endDate": "2021",
+    "experiences": [
+      "I first attended Prince of Wales' College, where I completed my G.C.E. (O/L) examination and passed out successfully."
+    ],
+    "imageSrc": "history/pwc.png"
+  }
+]
