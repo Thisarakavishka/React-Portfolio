@@ -1,7 +1,7 @@
 [
     {
         "title": "ChatGPT-Clone",
-        "imageSrc": "projects/project.png",
+        "imageSrc": "projects/ChatGPT-clone.png",
         "description": "A web app replicating ChatGPT's functionality, powered by the OpenAI API.              ",
         "skills": [
             "React",
@@ -13,7 +13,7 @@
     },
     {
         "title": "Weather App",
-        "imageSrc": "projects/project.png",
+        "imageSrc": "projects/weather-app.png",
         "description": "A mobile app providing real-time weather updates using an online API.",
         "skills": [
             "React Native",
@@ -24,9 +24,9 @@
         "source": "https://github.com/Thisarakavishka/weather-app"
     },
     {
-        "title": "Highway Ticket Management API",
+        "title": "Ticket Management API",
         "imageSrc": "projects/project.png",
-        "description": "An API for managing highway tickets, implemented with a microservices architecture.",
+        "description": "An API for managing highway tickets, implemented with a microservices.",
         "skills": [
             "Java",
             "MySQL",
@@ -36,9 +36,9 @@
         "source": "https://github.com/Thisarakavishka/Highway-Ticket-Management-API"
     },
     {
-        "title": "CargoProConnect (Standalone)",
+        "title": "CargoProConnect",
         "imageSrc": "projects/project.png",
-        "description": "A standalone system for managing package delivery across countries and handling employee management.",
+        "description": "A standalone system for managing package delivery across countries and handling employee.",
         "skills": [
             "Java SE",
             "JavaFX",
@@ -51,7 +51,7 @@
     {
         "title": "Shoe Shop POS System",
         "imageSrc": "projects/project.png",
-        "description": "Developed both front-end and API for a POS system, using JWT for authentication and authorization.",
+        "description": "Developed both front-end and API for a POS system with JWT.",
         "skills": [
             "Java",
             "HTML",

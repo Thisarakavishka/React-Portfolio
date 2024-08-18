@@ -12,6 +12,9 @@
 
 .image {
     margin-bottom: 26px;
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
 }
 
 .title {
